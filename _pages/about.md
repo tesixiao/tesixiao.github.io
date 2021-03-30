@@ -26,16 +26,16 @@ I am also interested in theory and computation for tensors, unsupervised learnin
 ## Preprints
 
 
-- *Statistical Inference for Polyak-Ruppert Averaged Stochastic Zeroth-order Gradient Algorithm*\n Yanhao Jin\*, Tesi Xiao\*, Krishnakumar Balasubramanian. ( "\*" indicates equal contribution)\n /ArXiv preprint/ (2021) \[[PDF](https://arxiv.org/pdf/2102.05198.pdf)\]
+- **Statistical Inference for Polyak-Ruppert Averaged Stochastic Zeroth-order Gradient Algorithm** Yanhao Jin\*, Tesi Xiao\*, Krishnakumar Balasubramanian. ( "\*" indicates equal contribution) *ArXiv preprint* (2021) \[[PDF](https://arxiv.org/pdf/2102.05198.pdf)\]
 
 
-- *Improved Complexities for Stochastic Conditional Gradient Methods under Interpolation-like Conditions*\n Tesi Xiao, Krishnakumar Balasubramanian, Saeed Ghadimi.\n /ArXiv preprint/ (2020) \[[PDF](https://arxiv.org/pdf/2006.08167.pdf)\]
+- **Improved Complexities for Stochastic Conditional Gradient Methods under Interpolation-like Conditions** Tesi Xiao, Krishnakumar Balasubramanian, Saeed Ghadimi. *ArXiv preprint* (2020) \[[PDF](https://arxiv.org/pdf/2006.08167.pdf)\]
 
-- *Neural SDE: Stabilizing Neural ODE Networks with Stochastic Noise*\n Xuanqing Liu, Tesi Xiao, Si Si, Qin Cao, Sanjiv Kumar, Cho-Jui Hsieh.\n /ArXiv preprint/ (2019) \[[PDF](https://arxiv.org/pdf/1906.02355.pdf)\]
+- **Neural SDE: Stabilizing Neural ODE Networks with Stochastic Noise** Xuanqing Liu, Tesi Xiao, Si Si, Qin Cao, Sanjiv Kumar, Cho-Jui Hsieh. *ArXiv preprint* (2019) \[[PDF](https://arxiv.org/pdf/1906.02355.pdf)\]
 
 
 ## Publications
 
-- *How Does Noise Help Robustness? Explanation and Exploration Under the Continuous Limit*\n Xuanqing Liu, Tesi Xiao, Si Si, Qin Cao, Sanjiv Kumar, Cho-Jui Hsieh. CVPR 2020 (Oral Presentation). \[[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_How_Does_Noise_Help_Robustness_Explanation_and_Exploration_under_the_CVPR_2020_paper.pdf)\]
+- **How Does Noise Help Robustness? Explanation and Exploration Under the Continuous Limit** Xuanqing Liu, Tesi Xiao, Si Si, Qin Cao, Sanjiv Kumar, Cho-Jui Hsieh. *CVPR 2020 (Oral Presentation)*. \[[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_How_Does_Noise_Help_Robustness_Explanation_and_Exploration_under_the_CVPR_2020_paper.pdf)\]
 
 
