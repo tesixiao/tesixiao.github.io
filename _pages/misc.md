@@ -8,6 +8,8 @@ author_profile: true
 
 ## Textbooks
 
+`Below are some textbooks I have been reading.`
+
 - Convex Optimization
 
   + [Lectures on Convex Optimization](https://link.springer.com/book/10.1007/978-3-319-91578-4), *by Yurii Nesterov*
@@ -19,7 +21,7 @@ author_profile: true
   + [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/), *by Alekh Agarwal, Nan Jiang, Sham M. Kakade, and Wen Sun*
 
 
-- Bandit Problem
+- Bandit Problems
   + [Introduction to Multi-Armed Bandits](https://arxiv.org/pdf/1904.07272.pdf), *by Aleksandrs Slivkins*
   + [Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems](http://sbubeck.com/SurveyBCB12.pdf), *by Sébastien Bubeck and Nicolo Cesa-Bianchi*
   
@@ -27,6 +29,8 @@ author_profile: true
 
 
 ## Course Websites
+
+`Below are some online courses I have followed.`
 
 - [ELE522: Large-Scale Optimization for Data Science](http://www.princeton.edu/~yc5/ele522_optimization/index.html)- *Yuxin Che (Princeton University)*
 - [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)-  *Wen Sun (Cornell University) and Sham Kakade (University of Washington)*
