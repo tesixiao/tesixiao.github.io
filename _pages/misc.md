@@ -8,7 +8,7 @@ author_profile: true
 
 ## Textbooks
 
-- Optimization
+- Convex Optimization
 
   + [Lectures on Convex Optimization](https://link.springer.com/book/10.1007/978-3-319-91578-4), *by Yurii Nesterov*
   + [Convex Optimization: Algorithms and Complexity](http://sbubeck.com/Bubeck15.pdf), *by Sébastien Bubeck*
@@ -20,6 +20,8 @@ author_profile: true
 
 
 - Bandit Problem
+  + [Introduction to Multi-Armed Bandits](https://arxiv.org/pdf/1904.07272.pdf), *by Aleksandrs Slivkins*
+  + [Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems](http://sbubeck.com/SurveyBCB12.pdf), *by Sébastien Bubeck and Nicolo Cesa-Bianchi*
   
 - High-dimensional Statistics
 
