@@ -15,8 +15,8 @@ author_profile: true
 
 - Reinforcement Learning
   
-  + [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
-  + [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
+  + [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html), by Richard S. Sutton and Andrew G. Barto
+  + [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/), by Alekh Agarwal, Nan Jiang, Sham M. Kakade, and Wen Sun
   
 - High-dimensional Statistics
 
