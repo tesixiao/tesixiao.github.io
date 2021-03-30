@@ -18,8 +18,8 @@ I am also interested in theory and computation for tensors, unsupervised learnin
 
 ## Recent News
 
-- 03\/28\/2021: I will join the AML team at Bytedance Inc. as a research intern this summer.
-- 05\/15\/2020: I passed the Ph.D. qualifying exam and was advanced to candidancy.
+- 03/28/2021: I will join the AML team at Bytedance Inc. as a research intern this summer.
+- 05/15/2020: I passed the Ph.D. qualifying exam and was advanced to candidancy.
 
 
 
@@ -38,4 +38,8 @@ I am also interested in theory and computation for tensors, unsupervised learnin
 
 - **How Does Noise Help Robustness? Explanation and Exploration Under the Continuous Limit** Xuanqing Liu, Tesi Xiao, Si Si, Qin Cao, Sanjiv Kumar, Cho-Jui Hsieh. *CVPR 2020 (Oral Presentation)*. \[[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_How_Does_Noise_Help_Robustness_Explanation_and_Exploration_under_the_CVPR_2020_paper.pdf)\]
 
+
+## Services
+
+Paper Reviewer for COLT 2020, NeurIPS 2020, AISTATS 2021, ICML 2021.
 
