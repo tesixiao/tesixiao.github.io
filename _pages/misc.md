@@ -8,13 +8,15 @@ author_profile: true
 
 ## Textbooks
 
-### Optimization
+- Optimization
 
-- [Lectures on Convex Optimization](https://link.springer.com/book/10.1007/978-3-319-91578-4)
+  + [Lectures on Convex Optimization](https://link.springer.com/book/10.1007/978-3-319-91578-4)
+  + [Convex Optimization: Algorithms and Complexity](http://sbubeck.com/Bubeck15.pdf)
+  + 
 
-### Reinforcement Learning
+- Reinforcement Learning
 
-### High-dimensional Statistics
+- High-dimensional Statistics
 
 
 ## Course Websites
