@@ -23,9 +23,11 @@ author_profile: true
 
 ## Course Websites
 
-- [ELE522: Large-Scale Optimization for Data Science](http://www.princeton.edu/~yc5/ele522_optimization/index.html)
+- [ELE522: Large-Scale Optimization for Data Science](http://www.princeton.edu/~yc5/ele522_optimization/index.html)- Yuxin Che (Princeton University)
+- [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)-  Wen Sun (Cornell University) and Sham Kakade (University of Washington)
 
 ## Blogs
 
+- [Off the Convex Path](http://www.offconvex.org/)
 
 ## Other Links
