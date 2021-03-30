@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Statistics"
   location         : "Davis, CA"
-  employer         :
+  employer         : "Department of Statistics"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "texiao@ucdavis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
