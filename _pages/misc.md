@@ -10,13 +10,16 @@ author_profile: true
 
 - Optimization
 
-  + [Lectures on Convex Optimization](https://link.springer.com/book/10.1007/978-3-319-91578-4)
-  + [Convex Optimization: Algorithms and Complexity](http://sbubeck.com/Bubeck15.pdf)
+  + [Lectures on Convex Optimization](https://link.springer.com/book/10.1007/978-3-319-91578-4), by Yurii Nesterov
+  + [Convex Optimization: Algorithms and Complexity](http://sbubeck.com/Bubeck15.pdf), by Sébastien Bubeck
 
 - Reinforcement Learning
   
   + [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html), by Richard S. Sutton and Andrew G. Barto
   + [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/), by Alekh Agarwal, Nan Jiang, Sham M. Kakade, and Wen Sun
+
+
+- Bandit Problem
   
 - High-dimensional Statistics
 
