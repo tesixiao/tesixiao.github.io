@@ -10,9 +10,9 @@ redirect_from:
 
 Currently, I am a third-year Ph.D. student at [Department of Statistics](https://statistics.ucdavis.edu/), [UC Davis](https://www.ucdavis.edu/), advised by [Prof. Krishna Balasubramanian](https://sites.google.com/view/kriznakumar/). I received my B.S. degree in Statistics from [Zhejiang University](http://www.zju.edu.cn/english/) (thesis advisor: [Prof. Peng Zhang](https://person.zju.edu.cn/en/0012068#0)). My research interests lie at the interface of computational and algorithmic inferential problems arising in statistical machine learning. Precisely, I am working on the following topics:
 
+- Stochastic Optimization: Computational complexities and statistical inferential problems for gradient-based optimization algorithms.
 - Reinforcement Learning: Non-asymptotic analysis for off-policy value-based methods for single/multi-agent RL.
-
-- Stochastic Optimization: Computational complexities and statistical inferential problems for first/zeroth-order algorithms.
+- Bandit Problems: Regret analysis for stochastic bandit problems and applications to recommendation systems.
 
 I am also interested in theory and computation for tensors, unsupervised learning in general.
 
