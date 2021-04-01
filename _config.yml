@@ -214,7 +214,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: pages
       author_profile: false
       share: false
       comments: false
