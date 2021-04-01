@@ -18,7 +18,7 @@ I am also interested in theory and computation for tensors, unsupervised learnin
 
 ## Recent News
 
-- 03/28/2021: I will join the AML team at Bytedance Inc. as a research intern this summer.
+- 03/28/2021: I will join the AML team at ByteDance Inc. as a research intern this summer.
 - 05/15/2020: I passed the Ph.D. qualifying exam and was advanced to candidancy.
 
 
