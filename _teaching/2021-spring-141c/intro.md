@@ -151,28 +151,6 @@ For example,
 *Python* is **open**. Python is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use. Everyone can contribute to this community, such as developing useful modules.
 
 
-```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-```
-
-
-```python
-a = np.array([1,2,3])
-plt.plot(a,a)
-```
-
-
-
-
-    [<matplotlib.lines.Line2D at 0x7fb18952fbe0>]
-
-
-
-
-![png](output_12_1.png)
-
 
 
 ```python
@@ -251,6 +229,7 @@ Object-oriented programming (OOP) is a programming paradigm based on the concept
 
 
 ```python
+import numpy as np
 # Create a np.array object
 ar = np.array([1,2,3])
 
