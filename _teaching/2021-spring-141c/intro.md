@@ -36,7 +36,7 @@ Several tools you may use for programming:
 - [PyCharm](https://www.jetbrains.com/pycharm/): a great IDE for Python.
 
 
-(Adanced) Text Editors you can use for coding:
+(Advanced) Text Editors you can use for coding:
 
 - [Vim](https://www.vim.org/)
 - [Sublime Text 3](https://www.sublimetext.com/)
