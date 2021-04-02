@@ -1,3 +1,9 @@
+---
+title: "Power Method"
+collection: teaching
+permalink: /teaching/2021-spring-141c/power_method
+---
+
 # STA 141C Big-data and Statistical Computing
 
 ## Discussion 1: Power Method
@@ -65,7 +71,7 @@ plt.ylabel('error')
 
 
 
-![png](output_5_1.png)
+![png](power.png)
 
 
 Feel free to play around with the above code. You will see, when $\lambda$ is not sufficiently large (for example, $\lambda = 3$), i.e., $\lambda$ and $v$ may not be the largest eigenvalue and eigenvector, the error for power iteration will not converge to 0.
