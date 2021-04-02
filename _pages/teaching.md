@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Assistant
 
-- STA 141C - *Big-data and Statistical Computing* (Spring 2021)
+- STA 141C - *Big-data and Statistical Computing* ([Spring 2021](/teaching/2021-spring-141c))
 
 - STA 243 - *Computational Statistics (Grad-level)* (Spring 2020)
 
