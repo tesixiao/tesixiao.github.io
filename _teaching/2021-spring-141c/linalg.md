@@ -1,3 +1,9 @@
+---
+title: "Linear Algebra in Python"
+collection: teaching
+permalink: /teaching/2021-spring-141c/linalg
+---
+
 # STA 141C Big-data and Statistical Computing
 
 ## Discussion 1: Linear Algebra in Python
