@@ -83,10 +83,10 @@ author:
   name             : "Tesi Xiao"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Statistics"
-  location         : "Davis, CA"
+  location         : "MSB 1212, UC Davis"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://tesixiao.github.io"
+  googlescholar    : #"https://tesixiao.github.io"
   email            : "texiao@ucdavis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tesi-xiao-6a8108128/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
