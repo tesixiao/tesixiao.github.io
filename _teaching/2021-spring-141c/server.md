@@ -1,3 +1,9 @@
+---
+title: "Working on a Remote Server"
+collection: teaching
+permalink: /teaching/2021-spring-141c/server
+---
+
 # STA 141C Big-data and Statistical Computing
 
 ## Discussion 2: Working on a Remote Server
