@@ -1,3 +1,10 @@
+---
+title: "Kernel PCA"
+collection: teaching
+permalink: /teaching/2021-spring-141c/pca
+---
+
+
 # STA 141C Big-data and Statistical Computing
 
 ## Discussion 3: Kernel PCA
