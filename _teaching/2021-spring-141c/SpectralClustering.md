@@ -22,9 +22,9 @@ A graph is made up of vertices (nodes/points) which are connected edges (links/l
   + Undirected graph: $(x, y)$ is an unordered pair;
   + Directed graph: $(x, y)$ is an ordered pair.
 - Weighted graph $G = (V, E, W)$: A weighted graph (or a network) is a graph with weighted edges. That is to say, a number (the weight) $w_{ij}\in W$ is assigned to the edge $(i,j)\in E$. $w_{ij}=0$ if $(i,j)\notin E$. 
-  + $|V|$: the cardinality of set $V$ / the number of vertices
-  + $|E|$: the cardinality of set $E$ / the number of edges
-  + **Weight Matrix** $W$: a $|V|\times |V|$ matrix where $W_{i,j} = w_{ij}$ if $(i,j) \in E$ else $W_{i,j} = 0$. For undirected graphs, $W$ is symmetric, i.e., $w_{ij} = w_{ji}$.
+  + $\vert V \vert$: the cardinality of set $V$ / the number of vertices
+  + $\vert E\vert$: the cardinality of set $E$ / the number of edges
+  + **Weight Matrix** $W$: a $\vert V \vert\times \vert V \vert$ matrix where $W_{i,j} = w_{ij}$ if $(i,j) \in E$ else $W_{i,j} = 0$. For undirected graphs, $W$ is symmetric, i.e., $w_{ij} = w_{ji}$.
 
 Note that for unweigted graph, one can assign 1 to all the edges, then $W$ would become the **adjacency matrix** $A$
 where $A_{i,j} = 1$ if $(i,j)\in E$ else $A_{i,j}=0$ 
@@ -70,15 +70,15 @@ nx.draw(G, with_labels=True)
 
 - Partitioning into two clusters
 
-  + Naive Balanced Cut:    $$\min_{V_1, V_2} \text{ cut}(V_1, V_2) := \sum_{v_i \in V_1, v_j \in V_2} W_{ij} \text{  s.t.  } |V_1| = |V_2| \text{ and } V_1 \cup V_2 = V, V_1 \cap V_2 = \emptyset$$ 
-  + Ratio-Cut:   $$\min_{V_1, V_2} \text{ RC}(V_1, V_2) := \bigg\{ \frac{\text{cut}(V_1, V_2)}{|V_1|} + \frac{\text{cut}(V_1, V_2)}{|V_2|} \bigg\}$$
+  + Naive Balanced Cut:    $$\min_{V_1, V_2} \text{ cut}(V_1, V_2) := \sum_{v_i \in V_1, v_j \in V_2} W_{ij} \text{  s.t.  } \vert V_1\vert  = \vert V_2\vert  \text{ and } V_1 \cup V_2 = V, V_1 \cap V_2 = \emptyset$$ 
+  + Ratio-Cut:   $$\min_{V_1, V_2} \text{ RC}(V_1, V_2) := \bigg\{ \frac{\text{cut}(V_1, V_2)}{\vert V_1\vert } + \frac{\text{cut}(V_1, V_2)}{\vert V_2\vert} \bigg\}$$
   + Normalized-Cut:   $$\min_{V_1, V_2} \text{ NC}(V_1, V_2) := \bigg\{ \frac{\text{cut}(V_1, V_2)}{\text{deg}(V_1)} + \frac{\text{cut}(V_1, V_2)}{\text{deg}(V_2)} \bigg\}$$
 
   In the orginal paper about Normalized-Cut, they call $\text{deg}(V_1)$ as $\text{assoc}(V_1, V)$, which is the total connections from nodes in $V_1$ to all nodes in the graph. See [paper](https://people.eecs.berkeley.edu/~malik/papers/SM-ncut.pdf).
 
 - Generalization to $k$ clusters
 
-  + Ratio-Cut:   $$\min_{V_1,..., V_k} \sum_{c=1}^k\frac{\text{cut}(V_c, V-V_c)}{\|V_c\|}  $$
+  + Ratio-Cut:   $$\min_{V_1,..., V_k} \sum_{c=1}^k\frac{\text{cut}(V_c, V-V_c)}{\vert V_c \vert }  $$
   + Normalized-Cut:   $$\min_{V_1,..., V_k} \sum_{c=1}^k\frac{\text{cut}(V_c, V-V_c)}{\text{deg}(V_c)} $$
 
 
