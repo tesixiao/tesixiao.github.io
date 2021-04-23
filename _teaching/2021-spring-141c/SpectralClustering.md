@@ -18,7 +18,7 @@ A graph is made up of vertices (nodes/points) which are connected edges (links/l
 
 - $G = (V, E)$
 - $V$: the set of vertices
-- $E\subseteq \bigg\{ (x,y)\vert x,y\in V \text{ and } x\neq y\right\bigg\}$ (for simplicity, we do not consider self-loops here)
+- $E\subseteq \bigg\{ (x,y)\vert x,y\in V \text{ and } x\neq y\bigg\}$ (for simplicity, we do not consider self-loops here)
   + Undirected graph: $(x, y)$ is an unordered pair;
   + Directed graph: $(x, y)$ is an ordered pair.
 - Weighted graph $G = (V, E, W)$: A weighted graph (or a network) is a graph with weighted edges. That is to say, a number (the weight) $w_{ij}\in W$ is assigned to the edge $(i,j)\in E$. $w_{ij}=0$ if $(i,j)\notin E$. 
