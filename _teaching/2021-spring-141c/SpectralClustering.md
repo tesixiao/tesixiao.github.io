@@ -1,3 +1,11 @@
+---
+title: "Spectral Clustering"
+collection: teaching
+permalink: /teaching/2021-spring-141c/SpectralClustering
+---
+
+
+
 # STA 141C Big-data and Statistical Computing
 
 ## Discussion 4: Spectral Clustering
