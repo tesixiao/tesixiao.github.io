@@ -18,7 +18,7 @@ A graph is made up of vertices (nodes/points) which are connected edges (links/l
 
 - $G = (V, E)$
 - $V$: the set of vertices
-- $E\subseteq \{ (x,y)| x,y\in V \text{ and } x\neq y\}$ (for simplicity, we do not consider self-loops here)
+- $E\subseteq \{ (x,y)\| x,y\in V \text{ and } x\neq y\}$ (for simplicity, we do not consider self-loops here)
   + Undirected graph: $(x, y)$ is an unordered pair;
   + Directed graph: $(x, y)$ is an ordered pair.
 - Weighted graph $G = (V, E, W)$: A weighted graph (or a network) is a graph with weighted edges. That is to say, a number (the weight) $w_{ij}\in W$ is assigned to the edge $(i,j)\in E$. $w_{ij}=0$ if $(i,j)\notin E$. 
@@ -78,7 +78,7 @@ nx.draw(G, with_labels=True)
 
 - Generalization to $k$ clusters
 
-  + Ratio-Cut:   $$\min_{V_1,..., V_k} \sum_{c=1}^k\frac{\text{cut}(V_c, V-V_c)}{|V_c|}  $$
+  + Ratio-Cut:   $$\min_{V_1,..., V_k} \sum_{c=1}^k\frac{\text{cut}(V_c, V-V_c)}{\|V_c\|}  $$
   + Normalized-Cut:   $$\min_{V_1,..., V_k} \sum_{c=1}^k\frac{\text{cut}(V_c, V-V_c)}{\text{deg}(V_c)} $$
 
 
