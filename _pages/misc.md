@@ -8,7 +8,7 @@ author_profile: true
 
 ## Textbooks
 
-\[some textbooks I have been reading\]
+\[textbooks I have been reading\]
 
 - **Convex Optimization**
 
@@ -30,7 +30,7 @@ author_profile: true
 
 ## Course Websites
 
-\[some online courses I followed\]
+\[online courses I followed\]
 
 - [ELE522: Large-Scale Optimization for Data Science](http://www.princeton.edu/~yc5/ele522_optimization/index.html)- *Yuxin Chen (Princeton University)*
 - [CS 6789: Foundations of Reinforcement Learning](https://wensun.github.io/CS6789.html)-  *Wen Sun (Cornell University) and Sham Kakade (University of Washington)*
