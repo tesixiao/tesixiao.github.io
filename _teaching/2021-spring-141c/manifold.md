@@ -1,3 +1,10 @@
+---
+title: "Spectral Clustering"
+collection: teaching
+permalink: /teaching/2021-spring-141c/ManifoldLearning
+---
+
+
 # STA 141C Big-data and Statistical Computing
 
 ## Discussion 5: Non-linear Dimensionality Reduction - Manifold Learning
