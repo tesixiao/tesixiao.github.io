@@ -1,3 +1,10 @@
+---
+title: "Gradient Descent"
+collection: teaching
+permalink: /teaching/2021-spring-141c/GradientDescent
+---
+
+
 # STA 141C Big-data and Statistical Computing
 
 ## Discussion 6: (Stochastic) Gradient Descent in Linear and Logistic Regression
@@ -34,7 +41,7 @@ The ERM problems in linear and logistic regression are convex optimization probl
 
 ### Convex vs Non-convex Optimization
 
-![](nonconvex.png)
+![](gd/nonconvex.png)
 
 ### Linear Regression
 
@@ -106,7 +113,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![png](gd/output_8_0.png)
 
 
 
@@ -122,7 +129,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](gd/output_9_0.png)
 
 
 
@@ -139,7 +146,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](gd/output_10_0.png)
 
 
 
@@ -156,7 +163,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](gd/output_11_0.png)
 
 
 ### Logistic Regression 
@@ -232,7 +239,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](gd/output_16_0.png)
 
 
 
@@ -248,7 +255,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![png](gd/output_17_0.png)
 
 
 
