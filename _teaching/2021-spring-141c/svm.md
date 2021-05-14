@@ -1,3 +1,9 @@
+---
+title: "Working on a Remote Server"
+collection: teaching
+permalink: /teaching/2021-spring-141c/svm
+---
+
 # STA 141C Big-data and Statistical Computing
 
 ## Discussion 7: Support Vector Machine
