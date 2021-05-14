@@ -118,7 +118,7 @@ plt.show()
 ```
 
 
-![png](output_3_0.png)
+![png](svm/output_3_0.png)
 
 
 ### Comparing SVMs with logistic regression
