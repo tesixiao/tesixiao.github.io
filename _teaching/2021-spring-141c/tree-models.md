@@ -1,3 +1,9 @@
+---
+title: "Tree-based Models"
+collection: teaching
+permalink: /teaching/2021-spring-141c/tree
+
+
 # STA 141C Big-data and Statistical Computing
 
 ## Discussion 8: Tree-based Models
