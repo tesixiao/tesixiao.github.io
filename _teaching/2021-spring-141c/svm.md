@@ -1,5 +1,5 @@
 ---
-title: "Working on a Remote Server"
+title: "Support Vector Machine"
 collection: teaching
 permalink: /teaching/2021-spring-141c/svm
 ---
